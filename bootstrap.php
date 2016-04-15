@@ -8,7 +8,7 @@ require 'vendor/autoload.php';
 /*
  * Options
  */
-$options = parse_ini_file('config.ini');
+$options = parse_ini_file('../../laracasts-config/config.ini');
 
 /*
  * Constants
